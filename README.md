@@ -36,7 +36,7 @@
 ### 🧠 Geliştirici Kartım
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurchanGurses&theme=dracula" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semavi7&theme=dracula" width="90%"/>
 </div>
 
 ---
@@ -52,9 +52,9 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <a href="https://github.com/BurchanGurses">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurchanGurses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurchanGurses&layout=compact&langs_count=8&theme=dracula" alt="En Çok Kullanılan Diller"/>
+  <a href="https://github.com/Semavi7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Semavi7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semavi7&layout=compact&langs_count=8&theme=dracula" alt="En Çok Kullanılan Diller"/>
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@BurchanGurses" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BurchanGurses&theme=dracula&layout=compact" alt="WakaTime İstatistikleri"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Semavi7&theme=dracula&layout=compact" alt="WakaTime İstatistikleri"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 ### 🧩 Ek Özellikler
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BurchanGurses&theme=dracula&no-frame=true&margin-w=15&row=1" alt="Başarı Kupaları"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Semavi7&theme=dracula&no-frame=true&margin-w=15&row=1" alt="Başarı Kupaları"/>
 </p>
 
 ---
