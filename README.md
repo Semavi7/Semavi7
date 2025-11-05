@@ -63,7 +63,7 @@
 ### ⏱️ Kodlama Aktivitem (WakaTime)
 
 <p align="center">
-  <a href="https://wakatime.com/@BurchanGurses" target="_blank">
+  <a href="https://wakatime.com/@Semavi7" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Semavi7&theme=dracula&layout=compact" alt="WakaTime İstatistikleri"/>
   </a>
 </p>
