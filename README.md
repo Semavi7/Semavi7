@@ -55,10 +55,13 @@
   <a href="https://github.com/Semavi7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Semavi7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semavi7&layout=compact&langs_count=8&theme=dracula" alt="En Çok Kullanılan Diller"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Semavi7&theme=dracula" alt="GitHub Streak"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Semavi7">
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Semavi7&theme=dracula" alt="GitHub Streak"/>
+  </a>
+</p>
 ---
 
 ### ⏱️ Kodlama Aktivitem (WakaTime)
