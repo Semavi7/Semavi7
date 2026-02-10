@@ -92,7 +92,7 @@
   <a href="https://x.com/BurchanGurses" target="_blank">
     <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="https://burchangurses.dev" target="_blank">
+  <a href="https://mehmetburchangurses.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Web Sitem-333333?style=for-the-badge&logo=blogger&logoColor=white" alt="Web Site">
   </a>
 </p>
