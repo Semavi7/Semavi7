@@ -5,7 +5,7 @@
 
   <h1>👋 Merhaba! Ben Mehmet Burçhan Gürses</h1>
 
-  <h3>İstanbul'da yaşayan bir Full-Stack Geliştirici adayı</h3>
+  <h3>İstanbul'da yaşayan bir Full-Stack Geliştirici</h3>
 
   <p align="center">
   Yazılım geliştirme sürecine tutkuyla bağlı, çok yönlü bir geliştiriciyim.  
