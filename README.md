@@ -92,21 +92,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Semavi7&theme=dracula&no-frame=true&margin-w=15&row=1" alt="Başarı Kupaları"/>
 </p>
 
----
-
-### 🔗 Sosyal Medya & İletişim
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehmet-bur%C3%A7han-g%C3%BCrses-524658340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/BurchanGurses" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>
-  <a href="https://mehmetburchangurses.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Web Sitem-333333?style=for-the-badge&logo=blogger&logoColor=white" alt="Web Site">
-  </a>
-</p>
 
 ---
 
