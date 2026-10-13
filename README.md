@@ -33,6 +33,17 @@
 
 ---
 
+### 🌐 Benimle iletişime geç
+
+<p align="left">
+  <a href="https://github.com/Semavi7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/mehmet-burçhan-gürses-524658340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.mehmetburchangurses.com/"><img src="https://img.shields.io/badge/Website-30A14E?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:semavi1151@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
 ### 🧠 Geliştirici Kartım
 
 <div align="center">
@@ -44,7 +55,7 @@
 ### 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,cs,dotnet,py,fastapi,mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,html,cs,js,py,dart,rust,go,vue,css,c,java,lua,bash,powershell,md,nextjs,react,angular,tailwind,bootstrap,redux,vite,babel,webpack,nodejs,express,nestjs,bun,dotnet,spring,fastapi,graphql,rabbitmq,kafka,elysia,nginx,flutter,androidstudio,electron,mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma,sequelize,docker,aws,gcp,azure,vercel,cloudflare,windows,linux,ubuntu,debian,arch,sklearn,opencv,anaconda,pytorch,tensorflow,git,github,vscode,visualstudio,postman,vim,neovim,npm,pnpm,yarn,selenium,figma&perline=14" alt="TypeScript, HTML, C#, JavaScript, Python, Dart, Rust, Go, Vue, CSS, C, Java, Lua, Bash, PowerShell, Markdown, Next.js, React, Angular, Tailwind CSS, Bootstrap, Redux, Vite, Babel, Webpack, Node.js, Express, NestJS, Bun, .NET, Spring, FastAPI, GraphQL, RabbitMQ, Kafka, Elysia, Nginx, Flutter, Android Studio, Electron, MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase, Prisma, Sequelize, Docker, AWS, Google Cloud, Azure, Vercel, Cloudflare, Windows, Linux, Ubuntu, Debian, Arch, scikit-learn, OpenCV, Anaconda, PyTorch, TensorFlow, Git, GitHub, VS Code, Visual Studio, Postman, Vim, Neovim, npm, pnpm, Yarn, Selenium, Figma" />
 </p>
 
 ---
