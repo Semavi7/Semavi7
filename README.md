@@ -73,6 +73,7 @@
     <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Semavi7&theme=dracula" alt="GitHub Streak"/>
   </a>
 </p>
+
 ---
 
 ### ⏱️ Kodlama Aktivitem (WakaTime)
